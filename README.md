@@ -1,2 +1,2 @@
-# Personal goal tracker
+# Personal goal tracker.
 
